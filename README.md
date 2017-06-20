@@ -12,4 +12,4 @@ The environments/editors that serves me as example of imitation are:
  
 Transparency is added for aesthetic reason. I also found that it increases readability. 
 
-
+Change color settings in "Properties" to change for current windows, and in "Default values" for all subsequent sessions.
