@@ -1,0 +1,4 @@
+RGB:
+
+Background color:   (2, 60, 136)
+Font color:         (255, 255, 255)
